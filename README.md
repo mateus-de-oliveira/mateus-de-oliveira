@@ -1,14 +1,14 @@
-## Opa me chamo Mateus de Oliveira, sou um dev em ascenção apaixonado por tecnologia!
+## Opa me chamo Mateus de Oliveira, sou um dev apaixonado por tecnologia e empreendedorismo!
 <div align="center">
   <a href="https://github.com/mateus-de-oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VivianeMayra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeMayra&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-de-oliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vivi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cutewallpaper.org/21/black-emoji-wallpaper/Emoji-Phone-Wallpaper-26.jpg">
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Mateus-pic" height="150" style="border-radius:50px;" src="https://cutewallpaper.org/21/black-emoji-wallpaper/Emoji-Phone-Wallpaper-26.jpg">
 </div>
   
   ##
