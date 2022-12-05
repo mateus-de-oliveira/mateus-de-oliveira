@@ -16,5 +16,5 @@
 <div> 
   <a href="https://www.instagram.com/o.mateus.fiuza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateusdeoliveira1530@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-de-oliveira-96740719b/" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://w0.peakpx.com/wallpaper/573/373/HD-wallpaper-wraithcrypt-black-elegante-hacker-mask-mr-suit-tie.jpg)" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/mateus-de-oliveira-96740719b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
